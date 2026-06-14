@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Genetic prioritisation of SMPD2 and FDXR for vascular dementia: reproducibility materials"
+message: "If you use these materials, please cite the associated manuscript and the Zenodo DOI for this repository snapshot."
+type: dataset
+authors:
+  - family-names: Zhou
+    given-names: Yumin
+  - family-names: Bi
+    given-names: Xia
+keywords:
+  - vascular dementia
+  - Mendelian randomization
+  - colocalization
+  - eQTL
+  - SMPD2
+  - FDXR
+version: "6.7"
+date-released: "2026-06-14"
+license: "CC-BY-4.0"
+
